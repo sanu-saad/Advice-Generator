@@ -59,8 +59,8 @@ section{
     border: none;
     position: absolute;
     cursor: pointer;
-    bottom: 0rem;
-    left: 5%;
+    bottom: 2rem;
+    left: 47%;
 }
 #btn-text:hover{
     box-shadow: var(--NeonGreen) 0px 0px 15px;
